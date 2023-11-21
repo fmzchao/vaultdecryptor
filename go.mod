@@ -1,4 +1,4 @@
-module github.com/fmzchao/vault-decryptor
+module github.com/fmzchao/vaultdecryptor
 
 go 1.20
 

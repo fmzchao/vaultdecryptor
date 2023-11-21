@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	color "github.com/fatih/color"
-	"github.com/fmzchao/vault-decryptor/decryptor"
-	"github.com/fmzchao/vault-decryptor/misc"
+	"github.com/fmzchao/vaultdecryptor/decryptor"
+	"github.com/fmzchao/vaultdecryptor/misc"
 	"github.com/spf13/cobra"
 )
 
